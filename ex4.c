@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("ex4.c test ex4.c test\n");
+	printf("ex4.c revision\n");
 	return 0;
 }
