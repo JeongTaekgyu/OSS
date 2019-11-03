@@ -2,4 +2,4 @@
 
 Git & github 연습공간
 README.md 파일 수정함
-Revision4
+I revised readme.md
